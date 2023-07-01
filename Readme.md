@@ -1,6 +1,6 @@
 ﻿# OC-SORT C++ Library Tracker for any hardware
 
-![track](track-lock.png)
+![track](data/ocsort-inference.png)
 
 **Observation-Centric SORT (OC-SORT)** is a pure motion-model-based multi-object tracker. It aims to improve tracking robustness in **crowded scenes and when objects are in non-linear motion**. It is designed by recognizing and fixing limitations in Kalman filter and [SORT](https://arxiv.org/abs/1602.00763). It is flexible to integrate with different detectors and matching modules, such as appearance similarity. It remains, **Simple, Online and Real-time**.
 
